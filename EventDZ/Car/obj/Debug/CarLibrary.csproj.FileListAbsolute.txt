@@ -1,0 +1,6 @@
+C:\Users\ТурмаханД\source\repos\RaceGame\Car\bin\Debug\Car.dll
+C:\Users\ТурмаханД\source\repos\RaceGame\Car\bin\Debug\Car.pdb
+C:\Users\ТурмаханД\source\repos\RaceGame\Car\obj\Debug\CarLibrary.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\RaceGame\Car\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\RaceGame\Car\obj\Debug\Car.dll
+C:\Users\ТурмаханД\source\repos\RaceGame\Car\obj\Debug\Car.pdb
